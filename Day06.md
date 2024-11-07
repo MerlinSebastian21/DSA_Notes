@@ -13,3 +13,16 @@ Variance and **Co-Variance**
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6mYeUC-GAVWs6RfJFWF3ShCOGDhMwRowmmQ&s)
 
+# CASE STUDY 
+## Z-Test
+ **H0 - Sample mean is same as Population mean
+   H1 - Sample mean is not same as Population mean** 
+
+
+Population mean = 50
+
+Find Z score then 
+P value 
+if  P value > (alpha value = 0.05) , H0 else H1
+## T-Test
+T value , degree of freedom, sample SD,find S
