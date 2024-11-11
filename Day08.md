@@ -24,7 +24,7 @@ Data Science
     - Likelihood
     - Posterior
  
-  Diff btn Conditional Probability and Bayes Theorem
+  Diff btn Conditional Probability and Bayes Theorem.
 
   Combinotorics
   - Binomial distribution
