@@ -48,9 +48,14 @@ Expected Value(IE[x])
   Essence of Information Theory (minimum number of bits needed to share a piece of information)
   - Quantifying uncertainty
     (if the probability of an event increases then uncertainty decreases and vice versa )
-  - Entropy
+  - Entropy - a measure of randomness or uncertainty in machine learning datasets
     ![](https://miro.medium.com/v2/resize:fit:1400/1*UNbcnRTQ_jFc0LbEnFvy3Q.png)
   - Entropy curve calculation
   - Cross Entropy
+   
 
+
+
+## **Binomial Distribution**
+![](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/binomial-distribution-01-1621924404.png)
 
