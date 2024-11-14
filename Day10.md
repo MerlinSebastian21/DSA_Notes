@@ -51,8 +51,52 @@
                         "Place" : "tvm"
                    }
 
+### Set - unordered collection of unique items
+ syntax : my_set = {1,2,3,4}
 
-                   
+Boolean Type
+None Type -represents an absence of value or a null value
 
-                   
- 
+## Operators
+1- Arthematic Operations (Addition, Subtraction, Multiplication, Division, Modulus, Exponentiation)
+    integer division "//" will eliminate decimal numbers
+    a=13
+    b= 2
+    c=a//b
+    print(c)
+    Exponentiation
+    a=2
+    b= 2
+    c=a**b
+    print(c)
+2. Comparision Operators( == ,!=,<,>,<=,>=)
+3. Logical Operators (AND, OR, NOT)
+4. Membership Operators( IN,NOTIN)
+      print('a' in 'apple') 
+      True
+5. Identity Operator (IS ,ISNOT)
+     a=10
+     b=10
+     print (a is b)
+     a= a+1
+     b=10
+     c=10
+     print (c is b)
+      true
+### Conditional Statements
+Syntax : 
+         x=11
+        if (x%2==0):
+              print(x," is even")
+        else:
+             print(x, "is odd")
+
+ nested if else(browse)
+
+  ## slice notation
+ a="water"
+ a[0:3]
+ a[: :-1]
+ syntax : a= "watermelon"
+          a[::-1] 
+          result = 'nolemretaw'
