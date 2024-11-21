@@ -154,14 +154,14 @@ order of execution
          col2 col2_dtype,
         );
         
-    - INSERT
+   - INSERT
        - INSERT INTO students ('id','name') VALUES('1','RAM')
-    - UPDATE:
-    - ALTER :
+   - UPDATE:
+   - ALTER :
       - ALTER TABLE table_name
         ADD column_name datatype;
-    - DELETE
-    - DROP : 
+   - DELETE
+   - DROP : 
       -DROP TABLE table_name;
-    - TRUNCATE
+   - TRUNCATE
     
